@@ -19,10 +19,10 @@ title = "Amber Atac"
   headline = "I'm only human"
   bio = "A loving girlfriend"
   links = [
-    { email = "mailto:hello@your_domain.com" },
-    { github = "https://github.com/username" },
-    { instagram = "https://instagram.com/username" },
-    { linkedin = "https://linkedin.com/in/username" },
-    { pinterest = "https://pinterest.com/username" },
-    { twitter = "https://twitter.com/username" },
+    { email = "mailto:amberatac@berkeley.edu" },
+    { github = "https://github.com/amberaatac" },
+   # { instagram = "https://instagram.com/username" },
+    { linkedin = "https://linkedin.com/in/amberaatac/" },
+   # { pinterest = "https://pinterest.com/username" },
+   # { twitter = "https://twitter.com/username" },
   ]

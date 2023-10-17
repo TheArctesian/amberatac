@@ -21,3 +21,4 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
+I am Amber and I am a freshman studying Engineering Physics. I am interested in going into graduate school eventually and work in research and the development of particle physics.
