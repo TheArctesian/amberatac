@@ -21,4 +21,3 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
-This is a bit of information about amber

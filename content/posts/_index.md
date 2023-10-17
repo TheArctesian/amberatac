@@ -5,3 +5,9 @@ draft: false
 
 
 ---
+
+Hello world this is my first post after creating this blog. 
+
+This blog is made using Hugo with the [blowfish theme](https://blowfish.page/)
+
+{{< github repo="amberaatac/personalsite" >}}
